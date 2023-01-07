@@ -1,0 +1,20 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Gestion de cuentas Corrientes Banco Popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan6230/Js-introuccion-POO.git"
+  },
+  "author": "Curso Alura",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/logan6230/Js-introuccion-POO/issues"
+  },
+  "homepage": "https://github.com/logan6230/Js-introuccion-POO#readme"
+}
